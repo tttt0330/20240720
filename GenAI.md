@@ -1,6 +1,6 @@
-#你是專家,請用十頁簡報說明CIA TRIAD
+# 你是專家,請用十頁簡報說明CIA TRIAD
 
-##CHATGPT
+## CHATGPT
 ```
 Slide 1: CIA三角介紹
 定義：CIA三角是信息安全的基本概念。
@@ -53,7 +53,7 @@ Slide 10: 總結
 影響：平衡保密性、完整性和可用性的安全目標。
 未來：隨著技術進步和新威脅的出現，持續發展。
 ```
-##Google Gemini
+## Google Gemini
 ```
 
 簡報標題：CIA 三元組：機密性、完整性和可用性
@@ -131,7 +131,7 @@ Speaker Notes
 投影片 8
 CIA 三元組的未來
 ```
-##微軟Copilot
+## 微軟Copilot
 ```
 頁面 1: 封面
 標題: CIA三元組：資訊安全的基石
